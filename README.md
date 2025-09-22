@@ -9,7 +9,7 @@ Forecast_Monthly_ARIMA.ipynb
 RandomForest_Monthly_LRBP_forecast.ipynb
 XGBoost_monthly_LRBP_forecast.ipynb
 
-Additional files are provided which were used create the final DF used in Random Forest and XGBoost models: 
+Additional files are provided which were used create the final Model_Dataset used in Random Forest and XGBoost models: 
 historical_inventory_calculator.ipynb
 historical_orders_calculator.ipynb
 Inventory Value Extract.xlsx
